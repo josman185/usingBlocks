@@ -2,8 +2,8 @@
 //  main.m
 //  Blocks-myexamples
 //
-//  Created by MCS on 3/5/16.
-//  Copyright © 2016 MCS. All rights reserved.
+//  Created by jose on 3/5/16.
+//  Copyright © 2016 jose. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

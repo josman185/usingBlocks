@@ -3,7 +3,7 @@
 //  Blocks-myexamples
 //
 //  Created by jose on 3/5/16.
-//  Copyright © 2016 MCS. All rights reserved.
+//  Copyright © 2016 jose. All rights reserved.
 //
 
 #import "ViewController.h"
